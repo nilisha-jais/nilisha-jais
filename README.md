@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nilisha Jiswal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate IT Sophomore who loves exploring new fields.</h3>
 
 - 📝 I regularly write articles on [https://jaiswal-nilisha05.medium.com/](https://jaiswal-nilisha05.medium.com/)
 
