@@ -6,7 +6,6 @@
 - 📫 How to reach me **jaiswal.nilisha05@gmail.com**
 
 - ⚡ Fun fact **A happy learner**
-- 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/10549/screenshots/6139254/meditate.png">
 
 <h3 align="left">Connect with me:</h3>
