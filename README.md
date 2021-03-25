@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Nilisha Jiswal</h1>
+<h1 align="center">Hi 👋, I'm Nilisha Jaiswal</h1>
 <h3 align="center">A passionate IT Sophomore who loves exploring new fields.</h3>
 
 - 📝 I regularly write articles on [https://jaiswal-nilisha05.medium.com/](https://jaiswal-nilisha05.medium.com/)
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/10549/screenshots/6139254/meditate.png">
 
 - 📫 How to reach me **jaiswal.nilisha05@gmail.com**
 
 - ⚡ Fun fact **A happy learner**
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/10549/screenshots/6139254/meditate.png">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
