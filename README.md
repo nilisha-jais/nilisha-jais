@@ -9,19 +9,15 @@
 ## 🚀 *About me*
 
 I'm a passionate IT Sophomore who loves exploring new fields.
-- 📝 I regularly write articles on [https://jaiswal-nilisha05.medium.com/](https://jaiswal-nilisha05.medium.com/)
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/10549/screenshots/6139254/meditate.png">
+- 📝 I regularly write articles on [Medium](https://jaiswal-nilisha05.medium.com/)
 
 ## ⚒ *My Experience*
-<!---
-Web Developer Intern at [GirlScript](https://github.com/girlscript) - I have worked on leaderboard of [GirlScript Summer of Code 21](http://gssoc.girlscript.tech/). It was fully automated leaderboard built using github api. I have also work on website designing.
+Web Developer Intern at [GirlScript Durgapur](https://girlscript-durgapur.netlify.app/)
 
-Project Admin at [GirlScript Summer of Code 21](http://gssoc.girlscript.tech/) & [Cross Winter of Code](https://crosswoc.ieeedtu.in/) - I guided **4 mentors and 300++ open source enthusiasts** about the open source. I was the Project admin of [Awesome JavaScript Projects](https://github.com/Vishal-raj-1/Awesome-JavaScript-Projects). The aim of this project to guide participants how they can make lot of stuff using simple vanilla JavaScript.
+Project Admin at [LGM Summer of Code 21](#) of my project[Musicophilia](https://github.com/nilisha-jais/Musicophilia)
 
-Open Source Developer at [NJACK Winter of Code 20](njackwinterofcode.github.io) & [Kharagpur Winter of Code 20](https://kwoc.kossiitkgp.org/) - I worked on more than **10 projects** during this programs. The main projecct I was working on is [Awesome Portfolio Website](https://github.com/smaranjitghose/awesome-portfolio-websites). In December 2020, I have raised more than **50 Pull Requests and solved 70++ issues**. NWOC'21 was my first open source program and I **ranked 1** in this program check leaderboard [here](https://njackwinterofcode.github.io/leaderboard.html).
+Open Source Developer at [JWOC Winter of Code 20](#), [Cross Winter of Code](#) & [Mexili Winter of Code 20](#)
 
-Mentee at [Girl Code It](https://github.com/Girl-Code-It) - I learnt Data Structure and Algorithms, Frontend Web Development, React, Git & Github from here. [Girl Code It](https://girlcodeit.com/) is a group of people who firmly believe in this statement and are eager to build a healthy coding culture among young coders.
- -->
 ## 👨‍💻 *Tech Stack I am Familiar With*:
 
 <p align="center">
@@ -49,7 +45,5 @@ Mentee at [Girl Code It](https://github.com/Girl-Code-It) - I learnt Data Struct
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=nilisha-jais&rank=S,AAA,AA,A&theme=juicyfresh&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nilisha-jais.nilisha-jais)
 </div>
