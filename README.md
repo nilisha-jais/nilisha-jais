@@ -14,9 +14,9 @@ I'm a passionate IT Sophomore who loves exploring new fields.
 ## ⚒ *My Experience*
 Web Developer Intern at [GirlScript Durgapur](https://girlscript-durgapur.netlify.app/)
 
-Project Admin at [LGM Summer of Code 21](#) of my project[Musicophilia](https://github.com/nilisha-jais/Musicophilia)
+Project Admin at [LGM Summer of Code 21](#) of my project [Musicophilia](https://github.com/nilisha-jais/Musicophilia)
 
-Open Source Developer at [JWOC Winter of Code 20](#), [Cross Winter of Code](#) & [Mexili Winter of Code 20](#)
+Open Source Developer at [JWOC Winter of Code](#), [Cross Winter of Code](#) & [Mexili Winter of Code](#)
 
 ## 👨‍💻 *Tech Stack I am Familiar With*:
 
